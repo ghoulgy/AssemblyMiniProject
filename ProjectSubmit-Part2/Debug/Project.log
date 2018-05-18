@@ -1,0 +1,17 @@
+﻿Build started 12/8/2016 12:04:09 PM.
+     1>Project "C:\Users\PCUSER\Desktop\VisualC++_Project_Solution_Template\Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       _MASM:
+       Skipping target "_MASM" because all output files are up-to-date with respect to the input files.
+       Link:
+         All outputs are up-to-date.
+         Project.vcxproj -> C:\Users\PCUSER\Desktop\VisualC++_Project_Solution_Template\Debug\Project.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Project.unsuccessfulbuild".
+         Touching "Debug\Project.lastbuildstate".
+     1>Done Building Project "C:\Users\PCUSER\Desktop\VisualC++_Project_Solution_Template\Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.02
